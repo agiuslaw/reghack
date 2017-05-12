@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dateofsale: 
+  agreedprice: 9.99
+  car: one
+  dealership: one
+
+two:
+  dateofsale: 
+  agreedprice: 9.99
+  car: two
+  dealership: two
